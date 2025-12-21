@@ -10,7 +10,7 @@ MC Xtended is a **Fabric-based modpack** that preserves the **vanilla Minecraft 
 - **Vanilla parity:** bugfixes and QoL that do not alter core mechanics.  
 - **One‑click server creation:** open your singleplayer world to friends with one click using **[e4mc](https://modrinth.com/mod/e4mc)** — it makes your LAN world public so friends can join easily. it also supports **offline mode**: disable online mode when opening to LAN if you need to play without online authentication.  
 - **Cosmetics:** get a cape at [MinecraftCapes](https://minecraftcapes.net/) and show it in‑game using the included cape support mod.
--  **Optional server package:**  download a ready‑to‑use **`MCXtended_Server.zip`**  containing a fabric **`server.jar`**, an **optimized `start.sh`**, and all **server‑side mods**  for quick deployment. Find it in the versions section at the bottom, uploaded as an optional file.
+-  **Optional server package:**  download a ready‑to‑use **`MCXtended_Server.zip`**  containing a fabric **`server.jar`**, an **optimized `start.sh`**, and all **server‑side mods**  for quick deployment. **[Download it from GitHub](https://github.com/XandarNull/mcxtended/releases)**.
 
 
 ---
@@ -127,4 +127,3 @@ MC Xtended is a **Fabric-based modpack** that preserves the **vanilla Minecraft 
 Questions or feedback — reach out on [Telegram](https://t.me/XandarNull).
 
 ---
-
