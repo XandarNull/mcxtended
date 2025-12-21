@@ -1,7 +1,7 @@
 
 ![](https://i.imgur.com/jBka3bd.png)
 # MC Xtended
-## Download client modpack from Modrinth
+## Download client modpack from **[Modrinth](https://modrinth.com/modpack/mcxtended)**
 
 MC Xtended is a **Fabric-based modpack** that preserves the **vanilla Minecraft experience** while improving performance, fixing long‑standing bugs, and adding subtle quality‑of‑life features. It’s aimed at players who want **vanilla parity** with modern optimizations, smoother rendering, fewer microstutters, improved tick behavior, and small UX improvements that do not change gameplay balance.
 
