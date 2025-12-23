@@ -1,17 +1,31 @@
-
 ![](https://i.imgur.com/jBka3bd.png)
 # MC Xtended
-## Download client modpack from **[Modrinth](https://modrinth.com/modpack/mcxtended)**
 
-MC Xtended is a **Fabric-based modpack** that preserves the **vanilla Minecraft experience** while improving performance, fixing long‑standing bugs, and adding subtle quality‑of‑life features. It’s aimed at players who want **vanilla parity** with modern optimizations, smoother rendering, fewer microstutters, improved tick behavior, and small UX improvements that do not change gameplay balance.
+MC Xtended is a **Fabric modpack** that preserves the **vanilla Minecraft experience**, while improving performance, fixing many bugs, and adding quality of life features. 
 
-**Highlights**
+It’s aimed at players who want a **modernized vanilla experience** — featuring better performance, smoother rendering, fewer stutters, and small UX improvements, all while maintaining the vanilla charm.
+
+**Highlights:**
 - **Performance first:** modern Fabric optimizations for both client and server.  
 - **Vanilla parity:** bugfixes and QoL that do not alter core mechanics.  
-- **One‑click server creation:** open your singleplayer world to friends with one click using **[e4mc](https://modrinth.com/mod/e4mc)** — it makes your LAN world public so friends can join easily. it also supports **offline mode**: disable online mode when opening to LAN if you need to play without online authentication.  
-- **Cosmetics:** get a cape at [MinecraftCapes](https://minecraftcapes.net/) and show it in‑game using the included cape support mod.
--  **Optional server package:**  download a ready‑to‑use **`MCXtended_Server.zip`**  containing a fabric **`server.jar`**, an **optimized `start.sh`**, and all **server‑side mods**  for quick deployment. **[Download it from GitHub](https://github.com/XandarNull/mcxtended/releases)**.
-
+- **One‑click server creation:** open your singleplayer world to friends with one click using **[e4mc](https://modrinth.com/mod/e4mc)** — it makes your LAN world public so friends can join easily. It also supports **offline mode**: disable online mode when opening to LAN if you need to play without online authentication.  
+- **Cosmetics:** get a cape at [MinecraftCapes](https://minecraftcapes.net/) and show it in‑game using the included cape support mod.  
+- **Optional server package:** download a ready‑to‑use **`MCXtended_Server.zip`** containing a fabric **`server.jar`**, an **optimized `start.sh`**, and all **server‑side mods** for quick deployment. **[Download it from GitHub](https://github.com/XandarNull/mcxtended/releases)**.
+---
+- **Core optimizations spotlight:**  
+  - **Sodium** — massive FPS gains through rendering optimizations.  
+  - **Lithium** — faster tick calculations and mob AI improvements.  
+  - **FerriteCore** — reduced memory usage for chunk and block data.  
+  - **ImmediatelyFast** — snappier responsiveness and reduced stutter.  
+  - **ThreadTweak** — smarter JVM thread scheduling for smoother gameplay.  
+  - **ScalableLux** — optimized light engine for better performance.  
+  - **ServerCore** — server‑side toolkit for lag reduction, entity controls, and chunk ticking optimizations.  
+- **Smarter resource use:** mods like **Clumps**, **Dynamic FPS**, and **Entity Culling** reduce idle resource usage, merge XP orbs, and skip rendering hidden entities — keeping gameplay smooth even on lower‑end systems.  
+- **Improved network stack:** **Krypton** optimizes server networking for lower latency and smoother multiplayer performance.  
+- **Beginner‑friendly tools:** mods like **Jade**, **Xaero’s Minimap & World Map**, **REI**, and **Enchantment Descriptions** make the game easier to learn by showing block info, guiding exploration, simplifying recipes, and explaining enchantments — perfect for new or inexperienced players.  
+- **Bugfixes included:** long‑standing vanilla issues are patched with mods like **Debugify** and **ModernFix**, ensuring smoother gameplay.  
+- **Flexible visuals:** built‑in shader support with **Iris** and curated packs like **Complementary Reimagined** or **Vanilla Plus Shader** let you enhance graphics without breaking vanilla style.  
+- **Lightweight customization:** UI polish from **BetterF3**, **Raised**, **Reese’s Sodium Options**, and **Better Ping Display** makes menus cleaner and more informative without overwhelming players. 
 
 ---
 
@@ -127,3 +141,5 @@ MC Xtended is a **Fabric-based modpack** that preserves the **vanilla Minecraft 
 Questions or feedback — reach out on [Telegram](https://t.me/XandarNull).
 
 ---
+
+
