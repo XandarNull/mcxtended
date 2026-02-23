@@ -1,3 +1,4 @@
+
 ![](https://i.imgur.com/jBka3bd.png)
 # MC Xtended
 
@@ -54,6 +55,7 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 | [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl) | Modern config menus |
 | [Searchables](https://modrinth.com/mod/searchables) | Search support for GUIs |
 | [Prickle](https://modrinth.com/mod/prickle) | Lightweight helper library |
+| [Text Placeholder API](https://modrinth.com/mod/placeholder-api) | Provides dynamic text placeholders for mods |
 
 ---
 
@@ -114,7 +116,6 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 | [Iris Shaders](https://modrinth.com/mod/iris) | Shader loader |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic light sources |
 | [Capes](https://modrinth.com/mod/capes) | Cape support (use [MinecraftCapes](https://minecraftcapes.net/)) |
-| [Model Gap Fix](https://modrinth.com/mod/modelfix) | Fixes small model gaps and visual artifacts |
 | [Raised](https://modrinth.com/mod/raised) | Subtle UI elevation and polish |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | Extended Sodium settings UI |
 | [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen) | Dark themed loading screen |
