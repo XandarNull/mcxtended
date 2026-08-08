@@ -20,13 +20,12 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
   - **ImmediatelyFast** — snappier responsiveness and reduced stutter.  
   - **ThreadTweak** — smarter JVM thread scheduling for smoother gameplay.  
   - **ScalableLux** — optimized light engine for better performance.  
-  - **ServerCore** — server‑side toolkit for lag reduction, entity controls, and chunk ticking optimizations.  
 - **Smarter resource use:** mods like **Clumps**, **Dynamic FPS**, and **Entity Culling** reduce idle resource usage, merge XP orbs, and skip rendering hidden entities — keeping gameplay smooth even on lower‑end systems.  
 - **Improved network stack:** **Krypton** optimizes server networking for lower latency and smoother multiplayer performance.  
 - **Beginner‑friendly tools:** mods like **Jade**, **Xaero’s Minimap & World Map**, **REI**, and **Enchantment Descriptions** make the game easier to learn by showing block info, guiding exploration, simplifying recipes, and explaining enchantments — perfect for new or inexperienced players.  
 - **Bugfixes included:** long‑standing vanilla issues are patched with mods like **Debugify** and **ModernFix**, ensuring smoother gameplay.  
 - **Flexible visuals:** built‑in shader support with **Iris** and curated packs like **Complementary Reimagined** or **Vanilla Plus Shader** let you enhance graphics without breaking vanilla style.  
-- **Lightweight customization:** UI polish from **BetterF3**, **Raised**, **Reese’s Sodium Options**, and **Better Ping Display** makes menus cleaner and more informative without overwhelming players. 
+- **Lightweight customization:** UI polish from **BetterF3**, **Raised**, **Reese’s Sodium Options**, and **Ping View** makes menus cleaner and more informative without overwhelming players. 
 
 ---
 
@@ -68,13 +67,15 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Skip rendering entities that are not visible |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage reductions for chunk data |
 | [Clumps](https://modrinth.com/mod/clumps) | Merge XP orbs to reduce entity overhead |
-| [Krypton](https://modrinth.com/mod/krypton) | Networking stack improvements for servers |
+| [Krypton](https://modrinth.com/mod/krypton) | Networking stack improvements for servers  |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Lower FPS when idle to save resources |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | General responsiveness improvements |
 | [ModernFix](https://modrinth.com/mod/modernfix) | Collection of bugfixes and performance patches across systems |
 | [ThreadTweak](https://modrinth.com/mod/threadtweak) | JVM/thread scheduling tweaks to improve responsiveness |
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | Optimized light engine (Starlight fork) |
-| [ServerCore](https://modrinth.com/mod/servercore) | performance toolkit with lag reduction, entity controls, and chunk ticking optimizations |
+| [Better Block Entities](https://modrinth.com/mod/better-block-entities) | Optimized rendering for block entities |
+| [Ixeris](https://modrinth.com/mod/ixeris) | Lower level system and input thread optimizations |
+| [Fast Noise](https://modrinth.com/mod/fast-noise) | Optimized noise generation for world generation calculations |
 
 ---
 
@@ -90,13 +91,12 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 | [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) | Improved inventory mouse controls |
 | [Jade](https://modrinth.com/mod/jade) | Lightweight block/entity tooltips |
 | [ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip) | Preview shulker box contents in tooltips |
-| [Spyglass Improvements](https://modrinth.com/mod/spyglass-improvements) | Small spyglass usability enhancements |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Minimap |
 | [Xaero's Worldmap](https://modrinth.com/mod/xaeros-world-map) | full world map |
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | Recipe and item lookup |
 | [KleeSlabs](https://modrinth.com/mod/kleeslabs) | Break double slabs individually |
 | [Bow Infinity Fix](https://modrinth.com/mod/bow-infinity-fix) | Fixes Infinity enchantment |
-| [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric) | Shows ping in player list |
+| [Ping View](https://modrinth.com/mod/ping-view) | Displays numerical ping in the tab player list |
 | [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) | Improved mount status UI |
 | [e4mc](https://modrinth.com/mod/e4mc) | Open your LAN server to the public |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Disable Mojang chat report UI |
@@ -107,6 +107,8 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 | [LAN World Plug‑n‑Play (mcwifipnp)](https://modrinth.com/mod/mcwifipnp) | Helpers for opening LAN worlds and connectivity |
 | [FastQuit](https://modrinth.com/mod/fastquit) | Faster exit and save behavior |
 | [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | Shows short descriptions for enchantments |
+| [Tool Stats](https://modrinth.com/mod/tool-stats) | Displays tool attributes, mining speeds, and durability details |
+| [Friendly Fire](https://modrinth.com/mod/friendly-fire) | Prevents accidental damage to pets and allied players |
 
 ---
 
@@ -130,8 +132,6 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 ## 🧪 Planned Additions
 | Mod | Status |
 |-----|--------|
-| [Tool Stats](https://modrinth.com/mod/tool-stats) | Awaiting update |
-| [Friendly Fire](https://modrinth.com/mod/friendly-fire) | Awaiting update |
 | [Companion](https://modrinth.com/mod/companion) | Awaiting update |
 | [Nvidium](https://modrinth.com/mod/nvidium) | Maybe — GPU optimizations (beta) |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Maybe — redstone optimization (experimental; test for parity) |
@@ -142,5 +142,3 @@ It’s aimed at players who want a **modernized vanilla experience** — featuri
 Questions or feedback — reach out on [Telegram](https://t.me/XandarNull).
 
 ---
-
-
